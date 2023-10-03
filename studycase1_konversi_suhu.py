@@ -1,4 +1,4 @@
-    # konversi suhu
+# konversi suhu made by scioss a.k.a Dony
 while True:
     suhu = (input("masukan jenis suhu celcius (C), fahrenheit (F), reamur (R), kelvin (K)= "))
 
