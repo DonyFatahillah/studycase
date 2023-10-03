@@ -1,4 +1,4 @@
-# kalkulator sederhana
+# kalkulator sederhana made by scioss a.k.a Dony
 angka1 = input("Angka Pertama : ")
 angka2 = input("Angka Kedua : ")
 
